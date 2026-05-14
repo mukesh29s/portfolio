@@ -1,0 +1,68 @@
+site_name: Mukesh Singh — Cloud & Database Engineer
+site_url: https://mukesh29s.github.io/portfolio
+site_description: >
+  Senior Cloud Infrastructure & Database Platform Engineer with 18+ years of experience
+  across Oracle, PostgreSQL, MySQL, and AWS cloud services.
+site_author: Mukesh Singh
+
+repo_url: https://github.com/Mukesh29s/portfolio
+repo_name: Mukesh29s/portfolio
+
+nav:
+  - Home: index.md
+  - Experience: experience/index.md
+  - Projects:
+      - Overview: projects/index.md
+      - AWS Database Migration (DMS): projects/aws-dms-migration.md
+      - Prometheus & Grafana Monitoring: projects/monitoring.md
+      - MySQL Zero ETL → Redshift: projects/zero-etl-redshift.md
+  - Certifications: certifications.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: purple
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - content.code.copy
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Mukesh29s
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mukeshsingh-db/
+      name: LinkedIn
+
+  analytics:
+    provider: google
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+
+extra_css:
+  - stylesheets/extra.css
