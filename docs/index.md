@@ -1,12 +1,12 @@
 <div class="hero-banner">
-  <h1>👋 Hi, I'm Mukesh Singh</h1>
+  <h1>👋 Hi, My name is Mukesh Singh</h1>
   <div class="subtitle">Senior Cloud Infrastructure & Database Platform Engineer</div>
   <div class="bio">
-    With over 18 years of hands-on experience in databases and cloud infrastructure, 
-    I've spent the last 8 years helping organisations design and build the right cloud environments 
-    for their needs. I don't just manage infrastructure — I help teams make smart architectural decisions 
-    from day one, whether that's choosing the right database engine, the right AWS service, 
-    or the right approach to scaling.
+    With over 18 years of experience in databases and cloud infrastructure, I’ve spent the last 8 years helping organizations design and build cloud environments that align with their business needs.
+
+    My work goes beyond managing infrastructure. I help teams make practical architectural decisions from the start, whether it’s choosing the right database technology, selecting the right AWS services, or designing systems that scale reliably over time.
+
+    I enjoy simplifying complex infrastructure, automating repetitive processes, and building platforms that are reliable, efficient, and easy to operate.
   </div>
 </div>
 
@@ -33,19 +33,19 @@
 
 ## What I Do
 
-I sit at the intersection of **DevOps and Data**. My job isn't just to keep the lights on — it's to build platforms that are resilient, efficient, and genuinely easy for teams to work with.
+I work at the intersection of infrastructure and databases, building platforms that are resilient, scalable, and easy for teams to work with. My role goes beyond keeping systems running, I focus on creating reliable environments, improving operational efficiency, and simplifying complex infrastructure for developers and businesses alike.
 
 === "☁️ Cloud Architecture"
-    Designing and building AWS infrastructure tailored to real business needs. I evaluate application requirements and recommend the right services — not just the popular ones.
+    I Designing and building AWS infrastructure tailored to specific business objectives. By evaluating technical requirements against budgetary constraints, I recommend optimal services based on performance and ROI, rather than following industry hype.
 
 === "🗄️ Database Platform Engineering"
-    Deep expertise across **Oracle, PostgreSQL, MySQL/MariaDB, Amazon Redshift, Cassandra, and DynamoDB**. I handle everything from initial design to migrations, tuning, and long-term reliability.
+    Databases are my bread and butter. I spent years in the trenches as a DBA before moving to the cloud, so I actually know what’s happening under the hood. Whether it’s **Oracle, PostgreSQL, MySQL/MariaDB, Amazon Redshift, Cassandra, or DynamoDB**. I handle everything from initial design to messy migrations, long-term reliability o the fine-tuning that keeps things running smoothly at 3:00 AM.
 
 === "⚙️ Automation & IaC"
-    Strong believer in infrastructure as code. I use **Terraform** extensively to make deployments repeatable, auditable, and fast. Manual steps are a smell — I automate them away.
+    I enjoy automating infrastructure and reducing manual work wherever possible. I use **Terraform** to create reliable and repeatable infrastructure deployments, and **Ansible** for server configuration, provisioning, and operational automation. I believe repetitive tasks should be automated to make deployments faster, more consistent, and easier to manage.
 
 === "📋 Operational Excellence"
-    I write SOPs, runbooks, and technical documentation that actually get used. Good documentation is the difference between a team that scales and one that bottlenecks on a single person.
+    I create clear SOPs, runbooks, and technical documentation that help teams work efficiently and independently. I believe good documentation is essential for scaling systems and teams, reducing dependency on individuals, and making operations smoother for everyone.
 
 ---
 
